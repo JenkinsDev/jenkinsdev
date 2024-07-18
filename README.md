@@ -7,4 +7,4 @@ I'm David Jenkins! Great to have you dropping by! Here's just a bit about me, if
 - 💭 I'm always pondering and trying to learn new things
   - 🌱 I’m currently focused on expanding my knowledge around physical electronics, in order to accelerate Byte-Sized Bits.
 - 👪 Father to beautiful children
-- 🌐 I share my [(rough) public notes with the world](https://jenkinsdev.us/public-notes/) (new-ish endeavor)
+- 🌐 I share my [(rough) public notes with the world](https://jenkinsdev.us/notes/) (new-ish endeavor)
